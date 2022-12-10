@@ -102,7 +102,7 @@ const Description = () => {
 
                 <div className='trailer'>
 
-                   <iframe  style={{ width: "550px", height:"350px" , borderRadius:"5px" }} className='video'
+                    <iframe  style={{ width: "550px", height:"350px" , borderRadius:"5px" }} className='video'
         frameBorder={0}  allowFullScreen
                         src={desc.trailer}>
                     </iframe>
